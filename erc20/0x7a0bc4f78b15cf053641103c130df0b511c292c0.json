@@ -1,0 +1,18 @@
+{
+  "symbol": "TPS",
+  "address": "0x7a0bC4F78b15cf053641103C130DF0b511c292c0",
+  "overview":{
+        "en": "Future Payment System",
+        "zh": "TPS（Future Payment System）支付生态系统，基于区块链+支付领域的去中心化服务系统解决方案"
+  },
+  "email": "TPS@sina.com",
+  "website": "http://www.tps.world/",
+  "whitepaper": "http://www.tps.world/wp.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-08-09",
+ 
+  "links": {
+    "blog": "https://www.bgj.io/",
+    "twitter": "https://www.bgj.io/",
+     }
+}
